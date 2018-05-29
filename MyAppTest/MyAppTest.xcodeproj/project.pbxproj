@@ -13,6 +13,7 @@
 		4FD23B4020BD4C3100886265 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FD23B3F20BD4C3100886265 /* Assets.xcassets */; };
 		4FD23B4320BD4C3100886265 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FD23B4120BD4C3100886265 /* LaunchScreen.storyboard */; };
 		4FD23B4620BD4C3100886265 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FD23B4520BD4C3100886265 /* main.m */; };
+		4FD23B4E20BD4D9400886265 /* MyAdddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FD23B4D20BD4D9400886265 /* MyAdddViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		4FD23B4220BD4C3100886265 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FD23B4420BD4C3100886265 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FD23B4520BD4C3100886265 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4FD23B4C20BD4D9400886265 /* MyAdddViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyAdddViewController.h; sourceTree = "<group>"; };
+		4FD23B4D20BD4D9400886265 /* MyAdddViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyAdddViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				4FD23B3720BD4C3100886265 /* AppDelegate.m */,
 				4FD23B3920BD4C3100886265 /* ViewController.h */,
 				4FD23B3A20BD4C3100886265 /* ViewController.m */,
+				4FD23B4C20BD4D9400886265 /* MyAdddViewController.h */,
+				4FD23B4D20BD4D9400886265 /* MyAdddViewController.m */,
 				4FD23B3C20BD4C3100886265 /* Main.storyboard */,
 				4FD23B3F20BD4C3100886265 /* Assets.xcassets */,
 				4FD23B4120BD4C3100886265 /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				4FD23B3B20BD4C3100886265 /* ViewController.m in Sources */,
 				4FD23B4620BD4C3100886265 /* main.m in Sources */,
 				4FD23B3820BD4C3100886265 /* AppDelegate.m in Sources */,
+				4FD23B4E20BD4D9400886265 /* MyAdddViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
